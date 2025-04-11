@@ -26,7 +26,7 @@ This repository is a **scientific archive** of original formulas, simulations, a
 A hardware + software architecture for experimenting with **temporal field curvature** and **white hole teleportation**.
 
 ### 2. KalaLang  
-A hybrid source code inscriptor combining **Python**, **Bash**, and **quantum syntax**, designed for cyber-defense and malware resistance.
+A hybrid source code inscriptor combining **Python**, **Bash**, and **quantum syntax**, designed for cyber-defense and malware resistance it's in development
 
 ### 3. Kala Security Program  
 A cybersecurity initiative simulating real-time defense missions, RATs, AI bots, and encryption rooted in **time-based security logic**.
